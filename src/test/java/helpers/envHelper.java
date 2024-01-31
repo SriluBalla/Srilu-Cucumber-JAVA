@@ -3,7 +3,6 @@ package helpers;
 public class envHelper {
 
     private static String env;
-    private static String portal;
 
     public static String getBaseURL(String path) throws Throwable {
         return chooseURL(path);
@@ -16,7 +15,7 @@ public class envHelper {
         if (env == null){
             env = System.getenv("ENV");
             if (env == null){
-                env = "dev";
+                env = "qa";
             }
         }
         return env;
