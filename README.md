@@ -1,5 +1,5 @@
 # Srilu-Cucumber-JAVA
-Selenium Cucumber JAVA with Test NG
+Selenium Cucumber JAVA with Test NG with MAVEN
 
 Before you download the repo – 
 1.	Download JAVA - https://www.oracle.com/java/technologies/downloads/
