@@ -1,4 +1,4 @@
-# Srilu-Cucumber-JAVA (WIP - do not run the repo yet)
+# Srilu-Cuke-Sel-Java
 Selenium Cucumber JAVA with MAVEN on IntelliJ
 
 Quick Preview - https://www.youtube.com/watch?v=wYgPU8DZWtY
