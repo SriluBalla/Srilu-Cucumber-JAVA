@@ -1,7 +1,9 @@
 # Srilu-Cucumber-JAVA (WIP - do not run the repo yet)
-Selenium Cucumber JAVA with Test NG with MAVEN
+Selenium Cucumber JAVA with MAVEN on IntelliJ
 
-Before you download the repo – 
+Quick Preview - https://www.youtube.com/watch?v=wYgPU8DZWtY
+
+______________________________________________
 1.	Download JAVA - https://www.oracle.com/java/technologies/downloads/
     a.	Select the version of JDK
     b.	Select – Linux / macOS / Windows 
@@ -13,14 +15,20 @@ Before you download the repo –
     a.	Select JAVA stable version
     b.	Go to the location of the zip install and unzip it
 3.	Install IntelliJ - https://www.jetbrains.com/edu-products/download/download-thanks.html?platform=macM1
-    a.	Go to File > Project Structure  Project Settings opens
+4.	Download Selenium Drivers (chrome & IE is typical, firefox and safari are available by default)
+    a.	https://googlechromelabs.github.io/chrome-for-testing/
+    b.	Select a stable suitable chromedriver that matches the chrome you have installed (go to chrome > Help > about Chrome to get the correct version)
+5.	Download the **REPO** now
+    a.	Go to File > Project Structure  Project Settings opens.
     b.	Go to Modules > Dependencies > 
     c.	Click on Module Source
     d.	Click on button PLUS > select JARs or Directories
-          1.	Locate the selenium download and add all the JAR files
-          2.	Locate the lib and add all the JAR files
-4.	Download Selenium Driver
-   a.	https://googlechromelabs.github.io/chrome-for-testing/
-   b.	Select a stable suitable chromedriver that matches the chrome you have installed (go to chrome > Help > about Chrome to get the correct version)
+        i.	Locate the selenium download and add all the JAR files (only)
+        ii.	Locate the lib and add all the JAR files.
+6.	Set Browser driver - 
+    a.	Add the browser drivers to folder – src/_macDrivers or src/_winDrivers
+    b.	Update the file helpers/browser path for chrome.
+ 
+ # (WIP)
 
 
