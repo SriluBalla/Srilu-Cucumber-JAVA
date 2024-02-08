@@ -1,5 +1,5 @@
 ### Project ###
-
+src/testResults/*
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
