@@ -19,16 +19,7 @@ ______________________________________________
     a.	https://googlechromelabs.github.io/chrome-for-testing/
     b.	Select a stable suitable chromedriver that matches the chrome you have installed (go to chrome > Help > about Chrome to get the correct version)
 5.	Download the **REPO** now
-    a.	Go to File > Project Structure  Project Settings opens.
-    b.	Go to Modules > Dependencies > 
-    c.	Click on Module Source
-    d.	Click on button PLUS > select JARs or Directories
-        i.	Locate the selenium download and add all the JAR files (only)
-        ii.	Locate the lib and add all the JAR files.
-6.	Set Browser driver - 
-    a.	Add the browser drivers to folder – src/_macDrivers or src/_winDrivers
-    b.	Update the file helpers/browser path for chrome.
+    a. git clone or directly from IntelliJ
+  	b. Once files load, right click on the pom file > Maven > Reload Project
+  	c. Once all indexing and loading is complete, you may start running the available tests
  
- # (WIP)
-
-
