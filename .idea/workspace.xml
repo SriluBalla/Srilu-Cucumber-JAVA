@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7838b729-c7df-4fa1-8b8a-740abfa96c2b" name="Changes" comment="Adding Helpers, Features, Steps">
-      <change afterPath="$PROJECT_DIR$/src/_macDrivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/_macDrivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/toolsElements.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/browserHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/browserStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/dbHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/dbQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/envHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/folderHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/screenshotHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/homeStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/radioButtonStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/textboxStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,11 +47,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Cucumber Java.Feature: register.executor": "Run",
+    "Cucumber Java.Feature: toolsElements.executor": "Run",
     "Maven.Srilu-Cucumber-JAVA [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "addFeatures",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/sriluballa/Documents/AUTOMATION/Srilu-Cucumber-JAVA",
     "onboarding.tips.debug.path": "/Users/sriluballa/Documents/AUTOMATION/Srilu-Cucumber-JAVA/src/Main.java",
